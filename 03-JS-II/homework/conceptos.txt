@@ -1,0 +1,14 @@
+conceptos
+
+for
+el bucle for se parece a las tablas de multiplicar va recorriendo
+uno a uno hasta llegar a un valor determinado.
+
+||
+varias posibilidades en objetos diferentes.
+
+&& 
+varias posibilidades en objetos similares.
+
+! 
+opuesto al objeto.

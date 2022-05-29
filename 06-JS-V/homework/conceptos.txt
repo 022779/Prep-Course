@@ -1,0 +1,11 @@
+Conceptos 
+
+prototype 
+
+el prototype es una plantilla para ser usada cada vez que se requiera
+es como calcar un dibujo y sacar de ahi varias copias.
+
+_Constructors_ (de Clases)
+
+permite inicializar una clase con parametros del objeto y el constructor 
+tambien puede importar otros parametros de otra clase.

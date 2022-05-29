@@ -1,0 +1,5 @@
+Array
+
+Un array es como una caja de juguetes contine 
+varios elementos de diferentes tipos, puedes
+agregar o quitar.

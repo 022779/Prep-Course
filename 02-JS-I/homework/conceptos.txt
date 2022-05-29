@@ -1,0 +1,29 @@
+conceptos:
+
+Variables:
+las variable son parecidos a los dados almacena un valor por un tiempo
+y esta puede cambiar de valor en otro momento.
+
+Stings:
+los strings son cadenas de texto iguales a las palabras o frases.
+
+Funciones(argumentos, 'return')
+
+Las funciones son como los juguetes por ejemplo un carrito de bomberos,
+este carrito posee unas propiedades que serian los argumentos por ejemplo
+(el nombre, tipo de carro, color etc), la interacción  con el carrito génera unas
+acciones lo cual se maneja con las variables cada accion génera un retorno 
+un valor de vuelta.
+
+Declaraciones 'if'
+
+las declaraciones if son en un juego de parques las reglas que deben tener 
+por ejemplo el número de veces de tirar los dados, esta acción genera un resultado
+y es indispensable en la ejecución del juego.
+
+Valores(true, false)
+
+rectificar que los pasos de las fichas sean verdaeras con el valor 
+de los dados.
+
+

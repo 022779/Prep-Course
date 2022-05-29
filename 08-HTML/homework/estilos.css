@@ -1,0 +1,131 @@
+   * {
+       margin: 0;
+       padding: 0;
+   }
+
+   h2 {
+       font-size: 20px;
+       font-family: sans-serif;
+       font-weight: bold;
+   }
+
+   header,nav,section,article,aside,footer {
+     
+       display: block;
+       font-family:sans-serif;
+   }
+
+   body {
+       text-align: center;
+   }
+
+   .contenedor {
+       width: 960px;
+       background: gainsboro;
+       margin: 15px auto;
+
+   }
+
+   .header {
+       background: black ;
+       color: white;
+       padding: 20px;
+   }
+   .header h1 {
+       text-align: left;
+       font-size: 14px;
+
+   }
+
+   .barra {
+       background:#D2B4DE;
+       padding: 15px 15px;
+       text-align: left;
+   }
+
+   .barra li {
+       list-style: none;
+       padding: 5px;
+       font: bold 14px verdana;
+       display: inline-block;
+     
+   }
+
+   .seccion {
+       margin: 20px;
+       width: 600px;
+       float: left;
+   }
+
+   .columna{
+       width: 280px;
+       float: left;
+       text-align: left;
+       margin: 20px 0 ;
+       padding: 10px 10px;
+   }
+
+   .columna h2 {
+       padding: 0px;
+       font-size: 14px;
+   }
+
+   .pie{
+       clear: both;
+       font-size: 11px;
+   }
+
+   #columnaUno{
+       float: left;
+       text-align: left;
+       padding:  10px 10px 20px;
+       margin: left;
+       
+   }
+
+   .columnaUno h1{
+       font-size: 14px;
+   }
+
+   #columnaDos{
+       float: left;
+       text-align: left;
+       padding: 10px 10px 10px; 
+       margin: left;
+   }
+  h2 {
+      text-align: left;
+      padding: 10px 10px 10px;
+
+  }
+
+  .perfil {
+      clear: both;
+      text-align: left;
+      padding: 10px 10px 10px;
+  }
+
+  .perfil h2 {
+      padding:0px;
+  }
+
+  .saber {
+      padding: 10px;
+      margin: left;
+      text-align: left;
+  }
+  
+  .saber h2 {
+      padding: 10px;
+      text-align: left;
+  }
+
+  .header h1 {
+      font-size: 30px;
+      font-family: sans-serif;
+      font-weight: bold;
+  }
+
+
+
+  

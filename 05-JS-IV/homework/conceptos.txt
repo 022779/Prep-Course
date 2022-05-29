@@ -1,0 +1,21 @@
+     
+    * Objetos
+      Los objetos son como juguetes estan compuestos por diferentes propiedades.
+
+	* Propiedades
+      Las propiedades describen los juguetes(nombre, tipo, color).
+
+	* Métodos
+      Los metodos son las acciones que ejecuta los juguetes.
+
+	* Bucle `for…in`
+      Los bucles se asemejan al mecanismo de un juguete se repite como en un 
+      ciclo y se detiene cuando este acaba y vuelve a empezar.
+      
+	* Notación de puntos vs notación de corchetes
+      La notación de puntos es cuando asociamos los objetos con las claves
+      mediante un punto por ejemplo un carro de bomberos va unido a una claves
+      (nombre, marca, color etc).
+
+      La notación de corchetes llama los elementos como una matriz mediante corchetes
+      y los llama como un string o numeros. 
